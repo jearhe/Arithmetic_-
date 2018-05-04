@@ -1,0 +1,7 @@
+C:\Users\何嘉佳\Desktop\C#项目\控制台Test\控制台Test\bin\Debug\控制台Test.exe.config
+C:\Users\何嘉佳\Desktop\C#项目\控制台Test\控制台Test\bin\Debug\控制台Test.exe
+C:\Users\何嘉佳\Desktop\C#项目\控制台Test\控制台Test\bin\Debug\控制台Test.pdb
+C:\Users\何嘉佳\Desktop\C#项目\控制台Test\控制台Test\obj\Debug\控制台Test.csprojResolveAssemblyReference.cache
+C:\Users\何嘉佳\Desktop\C#项目\控制台Test\控制台Test\obj\Debug\控制台Test.csproj.CoreCompileInputs.cache
+C:\Users\何嘉佳\Desktop\C#项目\控制台Test\控制台Test\obj\Debug\控制台Test.exe
+C:\Users\何嘉佳\Desktop\C#项目\控制台Test\控制台Test\obj\Debug\控制台Test.pdb
